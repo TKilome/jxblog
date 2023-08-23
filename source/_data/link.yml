@@ -1,0 +1,17 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网站框架
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: CSDN
+      link: https://blog.csdn.net/a2752454047?spm=1010.2135.3001.5343
+      avatar: https://img.alicdn.com/img/bao/uploaded/i4/https://img.alicdn.com/imgextra/i3/6000000001987/O1CN01S7EzzC1QY5db05BcD_!!6000000001987-2-shopmanager.png
+      descr: 博客网站
+
+

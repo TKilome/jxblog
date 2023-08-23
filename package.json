@@ -1,0 +1,43 @@
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "hexo": {
+    "version": "6.3.0"
+  },
+  "dependencies": {
+    "hexo": "^6.3.0",
+    "hexo-abbrlink": "^2.2.1",
+    "hexo-asset-image": "https://github.com/CodeFalling/hexo-asset-image.git",
+    "hexo-butterfly-article-double-row": "^1.0.2",
+    "hexo-butterfly-categories-card": "^1.0.0",
+    "hexo-butterfly-clock-anzhiyu": "^1.1.8",
+    "hexo-butterfly-envelope": "^1.0.15",
+    "hexo-butterfly-wowjs": "^1.0.5",
+    "hexo-deployer-git": "^4.0.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^3.0.0",
+    "hexo-generator-search": "^2.4.3",
+    "hexo-generator-searchdb": "^1.4.1",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-image-link": "^0.0.5",
+    "hexo-magnet": "^1.0.9",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^6.1.1",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^3.0.0",
+    "hexo-server": "^3.0.0",
+    "hexo-tag-aplayer": "^3.0.4",
+    "hexo-theme-butterfly": "^4.9.0",
+    "hexo-theme-landscape": "^1.0.0",
+    "hexo-wordcount": "^6.0.1",
+    "social-share.js": "^1.0.16"
+  }
+}
