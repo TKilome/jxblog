@@ -35,7 +35,7 @@ hexo init 文件夹名
 cnpm install
 ```
 
-<img src="../服务器搭建/image-20230810191640300.png" alt="image-20230810191640300" style="zoom:80%;" />
+![](README/image-20230810191640300.png)
 
 - 生成静态文件（网页文件）
 
@@ -55,7 +55,7 @@ hexo s
 
 - 通过url进入hexo博客主页
 
-<img src="../服务器搭建/image-20230810192206782.png" alt="image-20230810192206782" style="zoom:80%;" />
+![](README/image-20230810192206782.png)
 
 - `ctrl +c` 终止
 
@@ -132,7 +132,7 @@ hexo s
 
 
 
-### 
+
 
 ## 2、同步部署到服务器
 
