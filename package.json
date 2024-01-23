@@ -12,7 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
-    "hexo": "^6.3.0",
+    "hexo": "^7.1.1",
     "hexo-abbrlink": "^2.2.1",
     "hexo-asset-image": "https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-butterfly-article-double-row": "^1.0.2",
